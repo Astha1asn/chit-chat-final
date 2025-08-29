@@ -38,5 +38,3 @@ It provides users with a modern, responsive interface to connect, share, and com
 
 ---
 
-## 📦 Installation & Setup
-
